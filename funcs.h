@@ -1,3 +1,4 @@
+//Hi!
 #pragma once
 // заголовочный файл funcs.h
 #ifndef __FUNCS_H__
